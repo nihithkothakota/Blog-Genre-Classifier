@@ -1,1 +1,2 @@
 # Blog-Genre-Classifier
+Developed a blog genre classification system using multiple machine learning models, in- cluding Multinomial Naive Bayes, Decision Tree, Gaussian Naive Bayes, Stochastic Gradient Descent (SGD), and LightGBM. Conducted extensive data preprocessing, including tokenization, lemmatization, and TF-IDF vectoriza- tion. Evaluated model performance with metrics such as accuracy, F1 score, and confusion matrices. Visualized and compared model accuracy using bar charts to provide a clear assessment of each classifier’s effectiveness.
